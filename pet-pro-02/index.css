@@ -1,0 +1,190 @@
+/* <-------- GENERAL CSS-----------> */
+
+body {
+    background: #EAF4F6;
+}
+
+.clear {
+    clear: both;
+}
+
+img {
+    max-width: 100%;
+}
+
+.container {
+    padding: 0 5%;
+}
+
+
+/* <-------- NAV CSS-----------> */
+
+.go {
+    float: right;
+    padding: 1em 2%;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#go {
+    float: right;
+}
+
+nav img {
+    /* width: 9em; */
+    padding-top: 1.0em;
+}
+
+nav {
+    height: 5em;
+    background: #ffffff;
+    padding: 0 5%;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 1.5em 0 0 0;
+    margin: 0;
+    width: 100%;
+}
+
+nav li {
+    display: inline;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+nav li a:hover {
+    font-weight: bold;
+}
+
+nav li button {
+    margin: 0;
+    background-color: #EA7348;
+    color: #ffffff;
+    border: none;
+    padding: 0.7em;
+    cursor: pointer;
+    text-align: center;
+}
+
+
+/* <-------- MAIN CSS-----------> */
+
+.main {
+    padding: 1em 0;
+}
+
+.letter {
+    width: 40%;
+    float: left;
+    margin: 2% 0 0;
+}
+
+.big-text {
+    width: 5em;
+    font-size: 64px;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times;
+    border-right: 2px solid #EA7348;
+    height: 1.7em;
+}
+
+.big-text-2 {
+    width: 7em;
+    font-size: 350%;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times;
+}
+
+.imgs {
+    width: 45%;
+    float: right;
+    background: #EAF4F6;
+    margin: 6em 0 2px 0;
+}
+
+.last-letter {
+    widows: 5em;
+    border-right: 2px solid #EA7348;
+    padding: 3em 0 10% 0;
+    height: 2.7em;
+    width: 20em;
+}
+
+#button {
+    background-color: #EA7348;
+    color: #ffffff;
+    border: none;
+    text-align: center;
+    margin: 0 0 0 6em;
+    padding: 0.5em 2em;
+}
+
+#button:hover {
+    cursor: pointer;
+}
+
+
+/* <-------- FIRST SLIDE CSS-----------> */
+
+.slide {
+    width: 2.5em;
+    border: 2px solid #0F1625;
+    border-radius: 5px;
+}
+
+#leave {
+    float: left;
+    margin: 5px;
+}
+
+.slide-side {
+    margin-left: 37%;
+    margin-top: 5em;
+}
+
+.active {
+    border: 2px solid #ffffff;
+}
+
+
+/* <-------- SECOND PAGE CSS-----------> */
+
+.pic {
+    float: right;
+    margin: 4em 0 2px 0;
+}
+
+.slice {
+    width: 2.5em;
+    border-radius: 5px;
+    border: 2px solid #0F1625;
+}
+
+.slide2 {
+    margin-left: 37%;
+}
+
+.active2 {
+    border: 1px solid #ffffff;
+}
+
+
+/* <-------- THIRD PAGE CSS-----------> */
+
+.pic3 {
+    float: right;
+    margin: 4em 0 0 0;
+}
+
+
+/* <-------- GENERAL CSS-----------> */
+
+
+/* <-------- GENERAL CSS-----------> */

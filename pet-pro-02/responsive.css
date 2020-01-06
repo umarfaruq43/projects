@@ -1,0 +1,139 @@
+/* <-------- NAV PAGE CSS-----------> */
+
+@media screen and (max-width: 741px) {
+    .letter {
+        width: 100%;
+        float: none;
+        margin: 2% 0 0;
+    }
+    .big-text {
+        width: auto;
+        font-size: 64px;
+        font-weight: 800;
+        font-family: 'Times New Roman', Times;
+        border-right: none;
+        /* height: 1.5em; */
+    }
+    .big-text-2 {
+        width: auto;
+        font-size: 350%;
+        font-weight: 800;
+        font-family: 'Times New Roman', Times;
+        margin: -0.5em 0 0 40%;
+    }
+    .last-letter {
+        border: none;
+        padding: 3em 0 10% 0;
+        height: 2.7em;
+        width: 75%;
+        float: left;
+        margin: 0 0 5% 20%;
+    }
+    #button {
+        background-color: #EA7348;
+        color: #ffffff;
+        border: none;
+        text-align: center;
+        margin: 2em 0 0 6em;
+        padding: 0.5em 2em;
+    }
+    .imgs {
+        width: 70%;
+        float: none;
+        background: #EAF4F6;
+        margin: 0 0 0 16%;
+        clear: both;
+        text-align: center;
+    }
+    .slide-side {
+        margin: 1em 0 3em 37%;
+    }
+}
+
+@media screen and (max-width: 468px) {
+    #go {
+        display: none;
+    }
+    .big-text-2 {
+        width: auto;
+        font-size: 350%;
+        font-weight: 800;
+        font-family: 'Times New Roman', Times;
+        margin: -0.5em 0 0 0;
+    }
+    .last-letter {
+        border: none;
+        padding: 3em 0 10% 0;
+        height: 2.7em;
+        width: auto;
+        margin: 0 0 5% 0;
+    }
+    .last-letter {
+        border: none;
+        padding: 3em 0 10% 0;
+        height: 3.7em;
+        width: auto;
+        float: none;
+        margin: 5% 0 5% 0%;
+    }
+    .imgs {
+        width: 100%;
+        float: none;
+        background: #EAF4F6;
+        margin: 0 0 0 0;
+        clear: both;
+        text-align: center;
+    }
+}
+
+
+/* <-------- SECOND PAGE res_______CSS-----------> */
+
+@media screen and (max-width:751px) {
+    .pic {
+        width: 36%;
+        float: right;
+        margin: 4em 0 2px 0;
+    }
+    .slide2 {
+        margin: 2em 0 3em 37%;
+    }
+}
+
+@media screen and (max-width:369px) {
+    .pic {
+        width: 100%;
+        float: right;
+        margin: 4em 0 2px 0;
+    }
+    .slide2 {
+        margin: 2em 0 5em 30%;
+    }
+}
+
+
+/* <-------- SECOND PAGE CSS-----------> */
+
+
+/* <-------- SECOND PAGE CSS-----------> */
+
+
+/* <-------- SECOND PAGE CSS-----------> */
+
+
+/* <-------- SECOND PAGE CSS-----------> */
+
+
+/* <-------- SECOND PAGE CSS-----------> */
+
+
+/* <-------- SECOND PAGE CSS-----------> */
+
+
+/* <-------- SECOND PAGE CSS-----------> */
+
+
+/* <-------- SECOND PAGE CSS-----------> */
+
+
+/* <-------- SECOND PAGE CSS-----------> */
