@@ -1,0 +1,352 @@
+             body {
+                 font-family: sans-serif;
+                 margin: 0;
+                 padding: 0;
+             }
+             
+             hr {
+                 background-color: #434343;
+             }
+             
+             .container {
+                 margin: 1%;
+             }
+             
+             img {
+                 max-width: 100%;
+                 min-width: auto;
+             }
+             
+             .clear {
+                 clear: both;
+             }
+             
+             nav {
+                 text-align: center;
+             }
+             
+             nav ul {
+                 list-style-type: none;
+                 margin: 0;
+                 padding: 0;
+             }
+             
+             nav li {
+                 display: inline;
+             }
+             
+             nav li a {
+                 text-decoration: none;
+                 padding: 1em 3%;
+             }
+             
+             nav #s-img {
+                 border-radius: 60%;
+                 width: 20px;
+                 display: inline;
+                 padding: 0;
+                 margin-bottom: -5px;
+             }
+             
+             .C-img {
+                 border-radius: 50%;
+                 width: 3em;
+                 margin-bottom: -7px;
+             }
+             /* <!------- MAIN-EDIT ------>  */
+             
+             .main {
+                 background-color: #ffffff;
+                 margin: 3% 0 2em 0;
+             }
+             
+             #motor {
+                 width: 40%;
+                 margin-top: 15px;
+                 float: left;
+             }
+             
+             .sharp {
+                 width: 40%;
+                 float: left;
+                 margin: 0 10%;
+             }
+             /* <!------- MAIN-EDIT:fonts-sizes  ------>  */
+             
+             .sharp h2 {
+                 font-size: 1.4Sem;
+             }
+             
+             .sm-letters {
+                 font-size: 0.71em;
+             }
+             
+             .sm-width {
+                 width: 15.5em;
+             }
+             /* <!------- MAIN-EDIT: buttons ------>  */
+             
+             button {
+                 text-align: left;
+                 text-overflow: ;
+             }
+             
+             button h5 {
+                 margin: 0;
+                 padding: 0;
+             }
+             
+             .wth-L {
+                 width: 13em;
+                 height: auto;
+                 border: 2px solid #000;
+                 border-radius: 5px;
+                 margin-bottom: 9px;
+                 padding: 10px;
+                 background-color: #ffffff;
+             }
+             
+             .hello:hover {
+                 cursor: progress;
+             }
+             
+             #lh {
+                 margin-top: 18px;
+             }
+             
+             .wth-L img {
+                 height: 2em;
+                 padding: 0 10px;
+                 float: left;
+                 background-color: #ffffff;
+             }
+             
+             .w1 {
+                 float: left;
+             }
+             
+             .w2 {
+                 margin-left: 3%;
+             }
+             
+             .wth-Q {
+                 width: 9em;
+                 height: 4em;
+                 border: 2px solid #000;
+                 border-radius: 5px;
+                 margin-top: 0;
+                 float: left;
+                 margin-bottom: 8px;
+                 background-color: #ffffff;
+             }
+             
+             .wth-A {
+                 text-align: center;
+                 border: none;
+                 background-color: #028E3A;
+                 color: #ffffff;
+                 border-radius: 5px;
+                 width: 16em;
+                 float: left;
+                 height: auto;
+                 margin-left: 3%;
+             }
+             
+             .wth-A h4 {
+                 text-align: center;
+             }
+             /* <!------- ONLIINE-ORDERINGD - EDIT ------>  */
+             
+             .online-ordering {
+                 background-color: #f8f8f8;
+                 margin: 2em 0 2em 0;
+                 padding-top: 2%;
+             }
+             
+             .col-1 {
+                 width: 40%;
+                 padding: 10px 0 20px 20px;
+                 float: left;
+             }
+             /* <!------- ONLIINE-ORDERINGD - col-1 EDIT: font sizes ------>  */
+             
+             .recap {
+                 width: 50%;
+             }
+             
+             .col-1 a {
+                 margin-top: 20px;
+                 font-size: .75em;
+             }
+             /* <!------- ONLIINE-ORDERINGD - col-2 EDIT: font sizes ------>  */
+             
+             .col-2 {
+                 float: left;
+                 width: 45%;
+                 margin: 0 5%;
+             }
+             /* <!-------QUALITY  -  EDIT------>  */
+             
+             .quality {
+                 background-color: #F0F0F1;
+             }
+             
+             .quality-sz {
+                 margin-bottom: 5px;
+                 padding-top: 5em;
+             }
+             
+             .quality-sz img {
+                 width: 3em;
+             }
+             
+             .quality-sz a {
+                 font-size: 0.75em;
+             }
+             
+             .in-1 {
+                 width: 13em;
+                 border-right: 1px solid #d3cccc;
+                 float: left;
+                 padding-left: 2%;
+                 background-color: #F0F0F1;
+             }
+             
+             .in-last {
+                 width: 13em;
+                 float: left;
+                 padding-left: 4%;
+                 background-color: #F0F0F1;
+             }
+             
+             .sm-w {
+                 width: 75%
+             }
+             
+             .sell-pro {
+                 font-size: 50;
+             }
+             
+             .sell-pro {
+                 text-align: center;
+                 padding-top: 10%;
+             }
+             
+             .sell-pro button {
+                 width: 20em;
+                 padding: 15px;
+                 text-align: center;
+                 border: 2px solid #000;
+                 border-radius: 5px;
+             }
+             /* <!------- TRUST - EDIT ------>  */
+             
+             .trust {
+                 text-align: center;
+                 margin: 2em 5em;
+             }
+             
+             .trust-us a {
+                 text-align: center;
+             }
+             /* <!------- VINE - EDIT ------>  */
+             
+             .vine-in {
+                 width: 19%;
+                 padding: 2%;
+                 text-align: center;
+                 float: left;
+             }
+             
+             .vine-in img {
+                 width: 5em;
+             }
+             
+             .vine-in i {
+                 font-size: 0.75em;
+             }
+             
+             .vine-out {
+                 width: 4%;
+                 float: left;
+                 margin: 5em 1em;
+             }
+             
+             .center {
+                 text-align: center;
+                 margin: 3em 5em;
+             }
+             /* <!------- SUPPLIES DESIGN -------> */
+             
+             .auto {
+                 width: 18em;
+                 padding: 1em;
+                 border-right: 1px solid gray;
+                 float: left;
+             }
+             
+             .auto-last {
+                 width: 25%;
+                 padding: 2%;
+                 float: left;
+             }
+             
+             .line {
+                 line-height: auto;
+                 width: 12em;
+             }
+             /* <!------- FOOTER -------> */
+             
+             footer {
+                 margin: 5em 0 0 0;
+                 width: auto;
+                 background-color: #434343;
+                 padding: 20px;
+                 color: #ffffff;
+                 font-family: monospace;
+             }
+             
+             footer a {
+                 color: #ffffff;
+             }
+             
+             .tamara-ft img {
+                 width: 2.5em;
+                 /* float: left; */
+                 margin: 0 0 1em 0;
+             }
+             
+             .social ul {
+                 list-style-type: none;
+                 margin: 0;
+                 padding: 0;
+             }
+             
+             .social img {
+                 width: 2em;
+                 border-radius: 50%;
+             }
+             
+             .social li a {
+                 margin-right: 1em;
+             }
+             
+             .social li {
+                 display: inline;
+             }
+             
+             .social .radi {
+                 border-radius: 50%;
+             }
+             
+             .sm-size {
+                 width: 17em;
+                 font-size: 0.95em;
+                 line-height: 1.5em;
+             }
+             
+             .go {
+                 float: left;
+                 width: 15em;
+                 margin: 3%;
+             }
